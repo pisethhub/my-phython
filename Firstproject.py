@@ -1,7 +1,7 @@
 #Chatbot
 import random
 import time
-chatPlaces = ["the beach", "anywhere with snow", "any big city", "walking in the hills", "my mom house"]
+chatPlaces = ["the beach", "anywhere with snow", "any big city", "walking in the hills"]
 print("Welcome to Chatbot")
 name = input("What is your name? ")
 print("Hi there", name, "it's great to meet you!")
